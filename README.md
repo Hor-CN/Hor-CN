@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/-Java-yellow?style=flat&logo=JAVA&logoColor=white">
   <img src="https://img.shields.io/badge/-SpringBoot-%35A2?style=flat&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1a?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 </div>
