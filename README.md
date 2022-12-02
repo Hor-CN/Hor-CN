@@ -21,8 +21,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack&logoColor=white">
   <img src="https://img.shields.io/badge/-Vite-blue?style=flat&logo=Vite&logoColor=white">
 </div>
